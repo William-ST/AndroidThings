@@ -1,0 +1,43 @@
+Unidad 4:
+
+(X) Ejercicio: Instalar Android Things en la memoria SD
+(X) Ejercicio: Primer proyecto Android Things
+(X) Práctica: Mostrar información en el Layout de la actividad
+(X) Ejercicio: Entrada GPIO en Android Things
+(X) Ejercicio: Salida GPIO en Android Things
+(X) Practica: Controlar parpadeo mediante el botón
+(X) Ejercicio: Salida PWM en Android Things
+(X) Practica: Cambiar el brillo de un LED de forma periódica
+(X) Practica: Control de un LED RGB
+(_) Ejercicio: Una entrada/salida I2C en Android Things
+(_) Ejercicio: Usar un driver para PCF8591
+(_) Ejercicio: Medidor ultrasónico de distancia con Android Things
+(_) Ejercicio: Usar Arduino como esclavo a través de UART
+(_) Ejercicio: Preparar entradas y configuración de Google Assistant
+(_) Ejercicio: Versión inicial de Google Assistant
+(_) Ejercicio: Añadir control de volumen
+(_) Ejercicio: Usar acciones predefinidas en Google Assistant
+Extras:
+(_) Ejercicio: Medidor ultrasónico de distancia con Arduino
+(_) Ejercicio: Procesar comandos en Arduino por el puerto serie
+(_) Práctica: Control del brillo de un LED por voz
+(_) Ejercicio: Definir acciones personalizadas en Google Assistant
+
+Unidad 5:
+(_) Ejercicio: Conectividad básica con Nearby Connections
+(_) Práctica: Conectividad avanzada con Nearby Connections
+(_) Ejercicio: Configuración remota del wifi del dispositivo IoT
+(_) Ejercicio: Implementación de servidor HTTP en la RP3
+(_) Práctica: Lectura remota del fotorresistor
+(_) Ejercicio: API RESTful para control remoto del LED
+(_) Ejercicio: Interacción con API REST desde una web
+(_) Ejercicio: Interacción con Ubidots mediante API REST
+(_) Ejercicio: Conexión y publicación con MQTT
+(_) Práctica: Publicación bajo demanda
+(_) Ejercicio: Suscripción para control remoto del LED
+(_) Ejercicio: Cliente web de MQTT mediante websockets
+(_) Ejercicio: Shake it! MQTT en el móvil
+Extras:
+(_) Práctica: Configurador wifi avanzado
+(_) Práctica: API REST para lectura de iluminación
+(_) Práctica: Control de Raspberry mediante cliente web MQTT
